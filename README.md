@@ -1,2 +1,1 @@
-"# react-script" 
 # react-application
